@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudeCodeHub/devops-pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JudeCodeHub/devops-pipelines/issues"
+  },
+  "homepage": "https://github.com/JudeCodeHub/devops-pipelines#readme",
+  "description": ""
+}
