@@ -131,39 +131,7 @@ npm test
 git add .
 git commit -m "Describe your change"
 git push origin feature/your-change
-```
-
-Create a pull request on GitHub after pushing your branch.
-
-## Contributing
-
-Contributions are welcome.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Run the tests locally.
-5. Commit and push your changes.
-6. Open a pull request.
-
-Please keep changes focused and ensure that the test command completes successfully before submitting a pull request.
-
-## Future Improvements
-
-Possible extensions for this project include:
-
-- Adding automated linting
-- Expanding the test suite
-- Using a lockfile for repeatable installations
-- Testing against multiple Node.js versions
-- Adding pull request workflow triggers
-- Publishing build artifacts
-- Adding deployment stages
-- Integrating code coverage reporting
-- Adding status badges to this README
-  
+```  
 ## Author
 
 Maintained by [JudeCodeHub](https://github.com/JudeCodeHub).
